@@ -1,5 +1,5 @@
 {
-  "name": "starterProject",
+  "name": "account-transfers",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "treturner",
+  "author": "Xelagate",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^6",
